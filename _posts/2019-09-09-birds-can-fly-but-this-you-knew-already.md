@@ -1,9 +1,9 @@
 ---
-date: 2010-09-10 12:26:40
+date: 2020.06.28 12:26:40
 layout: post
-title: Birds can fly, but this you knew already
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: 我的blog成立了
+subtitle: 忙忙碌碌的时间里，经过一段时间，我的个人博客开张了
+description: 忙忙碌碌的时间里，经过一段时间，我的个人博客开张了。
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
 category: life
